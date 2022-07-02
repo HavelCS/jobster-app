@@ -15,4 +15,6 @@ Get job from all over the internet at one platform
 
 
 
-<img src="ss1.jpg" height="300em" /> <img src="ss2.jpg" height="300em" />
+<img src="ss1.jpg" /> 
+
+<img src="ss2.jpg"/>
