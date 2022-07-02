@@ -6,4 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-https://youtu.be/ho4sKXfurmg
+## YouTube
+I have created a tutorial based on this, do check it out on my channel (https://youtu.be/BBccK1zTgxw) 
