@@ -12,3 +12,7 @@ Get job from all over the internet at one platform
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
 **Client**: Flutter, Provider
+
+
+
+<img src="ss1.jpg" height="300em" /> <img src="ss2.jpg" height="300em" />
