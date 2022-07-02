@@ -1,10 +1,12 @@
 # jobsteer
 
-A new Flutter project.
+Jobs Search engine app- Works on Android, iOS & Web! 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 ## YouTube
-I have created a tutorial based on this, do check it out on my channel (https://youtu.be/BBccK1zTgxw) 
+[![Demo Working](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ho4sKXfurmg)
+
+## Tech Used
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
+
+**Client**: Flutter, Provider
